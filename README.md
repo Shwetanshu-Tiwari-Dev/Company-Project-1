@@ -4,9 +4,9 @@ Company: Capgemini Technology Services India Limited
 
 Client Project
 
-Project Description: It is a migration project in which old technologies are shifted to a new one like the database is shifted from Sybase to SQL and the whole java code is moved from JDK 1.5 to JDK 1.8. In this project, my role was of a full stack developer in the java team where I worked on building logics and fixing issues in JSP and Servlets. 
+Project Description: It is a migration project in which the database is moved from Sybase server to SQL server and the java code is moved from JDK 1.5 to JDK 1.8. In this project, my role was of a java developer where I worked on adding new features and frontend design changes on the website and fixing issues. 
 
-Technology Used: Java 8, Jsp, Servlet, JavaScript, HTML, CSS
+Technology Used: Java 8, Jsp, Servlet, JavaScript, HTML, CSS.
 
 Team Size: 3
 
