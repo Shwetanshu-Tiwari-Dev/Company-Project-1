@@ -4,10 +4,10 @@ Company: Capgemini Technology Services India Limited
 
 Client Project
 
-Project Description: It is a migration project in which the database is moved from Sybase server to SQL server and the java code is moved from JDK 1.5 to JDK 1.8. In this project, my role was of a java developer where I worked on adding new features and frontend design changes on the website and fixing issues. 
+Project Description: This project includes 2 Insurance WebApplications which was responsible for getting quotations for customers looking for taking housing loan and also provide different policies to the customers. We followed Agile methodology in the project.
 
-Technology Used: Java 8, Jsp, Servlet, JavaScript, HTML, CSS.
+Technology Used: Java, Restful Web Services, Spring Mvc, Spring Data Jpa, Jsp, Servlet, JavaScript, jQuery, HTML, CSS, Log4j, Apache Tomcat.
 
-Team Size: 3
+Team Size: 10
 
-Job Duties: Building logic and fixing Issues in Backend as well as Frontend.
+Job Duties: Responsible for the design, implementation, development of the application to meet the requirements. Write business logics for implemented interfaces and end to end development of usecases
